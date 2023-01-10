@@ -136,6 +136,7 @@ Execute the program
 ```              
 
 # OUPUT
+![valid](https://user-images.githubusercontent.com/119104282/211615319-6b7a2f49-649e-4ed5-bf7e-692d98d84c0c.png)
 
 
 # HTML VALIDATOR
@@ -144,23 +145,6 @@ Execute the program
 # RESULT
 The program for creating slot timetable is completed successfully
 
-
-
-# OUTPUT
-
-
-
-
-# HTML VALIDATOR
-
-
-
-
-
-# RESULT
-                        
-                               
-                            
 
 
 
